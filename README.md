@@ -56,6 +56,10 @@ Git, VSCode, ESP-IDF, STM32CubeIDE, Keil C, Segger Embedded Studio, nRF Connect,
   <img src="https://github.com/Do-EE2-IoT/Do-EE2-IoT/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Do-EE2-IoT/Do-EE2-IoT/blob/main/github-metrics.svg" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,git" />
