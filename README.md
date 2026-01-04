@@ -53,5 +53,5 @@ Git, VSCode, ESP-IDF, STM32CubeIDE, Keil C, Segger Embedded Studio, nRF Connect,
 
 ⭐ *I’m open to collaboration on Embedded, IoT, and Smart Home projects.*
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+  <img src="https://github.com/Do-EE2-IoT/Do-EE2-IoT/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 </p>
