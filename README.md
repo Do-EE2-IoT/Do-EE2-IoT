@@ -6,7 +6,7 @@
 
 🎓 **Control Engineering & Automation** — Hanoi University of Science and Technology (CPA 3.27/4)
 
-💼 **Firmware Tech Lead | Embedded Linux & IoT Engineer**
+💼 **Embedded Linux & IoT Developer**
 📍 Hanoi, Vietnam
 📧 [do30032003@gmail.com](mailto:do30032003@gmail.com)
 🔗 GitHub: [https://github.com/Do-EE2-IoT](https://github.com/Do-EE2-IoT)
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-I am an Embedded & IoT Engineer with strong experience in **firmware development**, **embedded Linux**, and **smart home systems**. I have worked across the full stack of IoT products — from low-level drivers and RTOS tasks to gateways and cloud integration.
+I am an Embedded & IoT Developer with strong experience in **firmware development**, **embedded Linux**, and **smart home systems**. I have worked across the full stack of IoT products — from low-level drivers and RTOS tasks to gateways and cloud integration.
 
-I enjoy building **reliable, production-grade embedded systems** and optimizing firmware for performance, stability, and power efficiency.
+I enjoy building **reliable, production-grade embedded systems** and optimizing firmware for performance, stability, and power efficiency. I have two years of experience developing projects with ESP32 and nRF52.
 
 ---
 
@@ -33,7 +33,7 @@ I enjoy building **reliable, production-grade embedded systems** and optimizing 
 
 ### Embedded & IoT
 
-* Frameworks: **Beken Armino IDK, ESP-IDF, FreeRTOS, Zephyr**
+* Frameworks: **Beken Armino IDK, ESP-IDF**
 * MCUs: **BK7258 ,ESP32, nRF52, STM32, 8051**
 * Communication: **UART, I2C, SPI**
 * Networking: **Matter, Zigbee, WiFi Mesh,  BLE, BLE Mesh**
