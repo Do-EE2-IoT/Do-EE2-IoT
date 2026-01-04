@@ -27,12 +27,12 @@ jobs:
           plugin_languages_limit: 6
 
           # Achievements
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_threshold: C
 
           # Follow-up
           plugin_followup: yes
 
           # Activity
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_limit: 5
