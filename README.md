@@ -29,11 +29,10 @@ I enjoy building **reliable, production-grade embedded systems** and optimizing 
 * Build systems: **Buildroot, OpenWrt**
 * Kernel configuration, driver integration, rootfs optimization
 * Smart Home architecture: **Device – Gateway – Cloud**
-* Protocols: **Matter, Zigbee, BLE Mesh**
 
 ### Embedded & IoT
 
-* Frameworks: **Beken Armino IDK, ESP-IDF**
+* Frameworks: **Beken Armino IDK, ESP-IDF, nRF5 SDK**
 * MCUs: **BK7258 ,ESP32, nRF52, STM32, 8051**
 * Communication: **UART, I2C, SPI**
 * Networking: **Matter, Zigbee, WiFi Mesh,  BLE, BLE Mesh**
