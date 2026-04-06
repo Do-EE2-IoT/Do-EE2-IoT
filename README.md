@@ -18,7 +18,7 @@
 I am an Embedded & IoT Developer with strong experience in **firmware development**, **embedded Linux**, and **smart home systems**. I have worked across the full stack of IoT products — from low-level drivers and RTOS tasks to gateways and cloud integration.
 
 I enjoy building **reliable, production-grade embedded systems** and optimizing firmware for performance, stability, and power efficiency. I have two years of experience developing projects with ESP32 and nRF52.
-**Software development aims to build a workflow engine that is highly reliable, easy to test, error-resistant, and scalable.**
+Software development aims to build a workflow engine that is **highly reliable, easy to test, error-resistant, and scalable**.
 
 ---
 
