@@ -49,20 +49,6 @@
 
 **Build & Dev Tools**
 - CMake, Docker, Git, ESP-IDF, STM32CubeIDE, Keil C, Segger Embedded Studio, nRF Connect, Postman, MQTT Explorer
-
-## ✨ Nice To Have / Specialized Experience
-
-- LVGL-based embedded UI development
-- Audio feature development for embedded products (AEC and related voice/audio enhancement flows)
-- Rust in embedded/software projects
-- Smart Home system design and integration
-
-## 🤝 Open To
-
-- Embedded Firmware Engineer roles
-- Embedded Linux / IoT Engineer roles
-- Collaboration on smart home, connectivity, and low-power device projects
-
 ---
 
 <p align="center">
